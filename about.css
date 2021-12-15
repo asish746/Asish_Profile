@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(247, 238, 238);
+}
+div {
+  margin-left: 2%;
+}
+.picture {
+  float: none;
+  margin-top: 2%;
+  text-align: start;
+}
+heading {
+  float: none;
+  display: block;
+  background-color: rgb(247, 238, 238);
+  margin-left: 2%;
+}
+
+.foot {
+  background-color: black;
+  color: white;
+}
+.rbok {
+  color: blue;
+  margin-left: 2%;
+}
+.fbook {
+  margin-left: 2%;
+}
+.fav {
+  font-size: 20px;
+  margin-left: 2%;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  line-height: 0.5;
+}
+ol li {
+  display: block;
+  line-height: 0.1;
+  list-style-type: number;
+  text-transform: capitalize;
+}
