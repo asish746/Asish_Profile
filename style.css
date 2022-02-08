@@ -105,7 +105,17 @@ h3 {
 .inte:hover{
   color:white;
 }
-
+.work{
+  padding-left:4%;
+  padding-right:4%;
+  padding-bottom:2%;
+}
+.worklink{
+  color:black;
+}
+.worklink:hover{
+  color:black;
+}
 
 .foot {
   background-color: gray;
